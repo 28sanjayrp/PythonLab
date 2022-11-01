@@ -1,7 +1,7 @@
 print("Hello world")
 print("new line added")
 
-#Inheritance
+#Inheritance demo
 
 #class1
 class class1:
